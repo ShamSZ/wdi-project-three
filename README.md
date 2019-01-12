@@ -153,6 +153,11 @@ From `/src/views/events/eventEdit.html`:
 **Event edit:**
 ![autofill](/readme-images/autofill.png)
 
+**On mobile:**
+![autofill](/readme-images/mobile1.png)
+
+![autofill](/readme-images/mobile2.png)
+
 ## Bugs
 Below is a list of some of the known bugs within the app:
 
